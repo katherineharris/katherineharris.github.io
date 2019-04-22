@@ -24,8 +24,11 @@ font-size: 17px;
  background-color: lightslategray;
 color: white;
         }
-p{
-    float:left;
-    height:50px;
-    padding:unset 5px;
+p {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  height:100px;
 }
