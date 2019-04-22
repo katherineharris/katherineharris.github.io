@@ -24,6 +24,8 @@ font-size: 17px;
  background-color: lightslategray;
 color: white;
         }
-.photo a{
-    width:150px;
+p{
+    float:left;
+    width:100px;
+    padding:unset 5px;
 }
