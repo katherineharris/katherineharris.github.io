@@ -6,6 +6,10 @@ h1 {
     font-family: 'Segoe UI', Verdana, sans-serif;
     font-size: 40px;
 }
+h2 {
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-size: 20px;
+}
 .topnav {
     background-color: black;
     overflow: hidden;
@@ -20,15 +24,15 @@ h1 {
         font-size: 17px;
     }
 
-        .topnav a:hover {
+.topnav a:hover {
             background-color: slategray;
             color: white;
-        }
+}
 
-        .topnav a.active {
+ .topnav a.active {
             background-color: black;
             color: white;
-        }
+}
 
 p {
     display: block;
@@ -37,4 +41,5 @@ p {
     margin-left: 0;
     margin-right: 0;
     height: 100px;
+    float:right;
 }
