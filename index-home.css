@@ -34,11 +34,7 @@ font-size: 17px;
  background-color: black;
 color: white;
         }
-p {
-  display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-left: 0;
-  margin-right: 0;
-  height:100px;
+#headshot{
+    float: right;
+    height: 300px;
 }
