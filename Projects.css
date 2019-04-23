@@ -21,12 +21,12 @@ h1 {
     }
 
         .topnav a:hover {
-            background-color: lightgray;
-            color: black;
+            background-color: slategray;
+            color: white;
         }
 
         .topnav a.active {
-            background-color: lightslategray;
+            background-color: black;
             color: white;
         }
 
