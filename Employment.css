@@ -13,6 +13,7 @@ h2 {
 .topnav {
     background-color: black;
     overflow: hidden;
+    font-family: 'Segoe UI', Verdana, sans-serif;
 }
 
     .topnav a {
@@ -22,15 +23,18 @@ h2 {
         padding: 14px 16px;
         text-decoration: none;
         font-size: 17px;
+        font-family: 'Segoe UI', Verdana, sans-serif;
     }
 
-.topnav a:hover {
+        .topnav a:hover {
             background-color: slategray;
             color: white;
-}
+            font-family: 'Segoe UI', Verdana, sans-serif;
+        }
 
- .topnav a.active {
-            background-color: black;
+        .topnav a.active {
+            background-color: darkslateblue;
             color: white;
-}
+            font-family: 'Segoe UI', Verdana, sans-serif;
+        }
 
