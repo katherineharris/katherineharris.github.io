@@ -33,7 +33,7 @@ h2 {
         }
 
         .topnav a.active {
-            background-color: darkslateblue;
+            background-color: aliceblue;
             color: white;
             font-family: 'Segoe UI', Verdana, sans-serif;
         }

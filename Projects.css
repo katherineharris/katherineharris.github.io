@@ -33,16 +33,9 @@ h2 {
         }
 
         .topnav a.active {
-            background-color: darkslateblue;
+            background-color: aliceblue;
             color: white;
             font-family: 'Segoe UI', Verdana, sans-serif;
         }
 
-p {
-    display: block;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    height: 100px;
-}
+

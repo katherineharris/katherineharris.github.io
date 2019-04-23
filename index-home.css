@@ -34,12 +34,12 @@ h2 {
         }
 
         .topnav a.active {
-            background-color: darkslateblue;
-            color: white;
+            background-color: aliceblue;
+            color: black;
             font-family: 'Segoe UI', Verdana, sans-serif;
         }
-#headshot{
+/*#headshot{
     float: right;
     max-width:400px;
     height:auto;
-}
+}*/
