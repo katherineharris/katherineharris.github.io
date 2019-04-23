@@ -1,4 +1,5 @@
 ﻿body {
+    background-color:aliceblue;
 }
 
 .topnav {
@@ -8,7 +9,7 @@
 
     .topnav a {
         float: left;
-        color: lightslategrey;
+        color: white;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
