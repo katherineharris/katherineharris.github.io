@@ -40,5 +40,6 @@ h2 {
         }
 #headshot{
     float: right;
-    width: 20%;
+    max-width:400px;
+    height:auto;
 }
